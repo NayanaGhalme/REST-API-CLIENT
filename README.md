@@ -18,3 +18,5 @@ Descryption of task: Here again I have used netbeans IDE To this task.And some d
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/27a431dd-b3a2-46a5-92e6-20c4ff3d4221)
+
